@@ -1,2 +1,2 @@
 # CS50
-All of my exercises from the course
+All of the exercises assigned to me by HarvardX CS50
