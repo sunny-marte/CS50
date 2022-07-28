@@ -1,8 +1,8 @@
 CLI program that applies Instagram-like simplistic filters to .bmp photos.
-PROGRAM WIL ONLY WORK WITH 24-bit BMP FILES!
+THE PROGRAM WILL ONLY WORK WITH 24-bit BMP FILES!
 
 Usage: ./filter -x file.bmp out.bmp
 (substitute -x with -g for grayscale, -s for sepia, -r for reflection, -b for blur;
-file.bmp should be replaced with the name of your input file and out.bmp with the name of the final output.)
+file.bmp should be replaced with the name of your input file and out.bmp with the name of the final output file.)
 
 Program specification: https://cs50.harvard.edu/x/2022/psets/4/filter/less/
